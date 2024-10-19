@@ -1,0 +1,9 @@
+r1c1 Found match: Environmental justice -> The study of the disproportionate exposure to environmental hazards experienced by people of color, recent immigrants and people of lower socio-economic backgrounds; and is both an academic field and a social movement. (Word Match)
+r1c2 Found match: Population growth rate (Intrinsic growth rate) -> The number of offspring an individual can produce in a given time period, minus the deaths of the individual or its offspring during the same period. (Word Match)
+r1c3 Found match: Crude birth rate (CBR) -> The number of births per 1,000 individuals per year. (Word Match)
+No match found for: The number of offspring an individual can produce ina given time pe
+No match found for: Age structure diagram
+r2c2 Found match: An estimate of the average number of children that each woman in a  -> Total fertility rate (TFR) (Definition Match)
+No match found for: A visual representation of the number of individuals within specifi
+r3c1 Found match: Life expectancy -> The average number of years that an infant born in a particular year in a particular country can be expected to live, given the current average life span and death rate in that country. (Word Match)
+No match found for: The average number of years that an infant born ina particular year
